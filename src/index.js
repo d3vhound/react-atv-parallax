@@ -2,8 +2,6 @@ import createClass from 'create-react-class'
 import PropTypes from 'prop-types'
 import React from 'react'
 
-import style from './style.js'
-
 export default createClass({
   propTypes: {
     isStatic: PropTypes.bool,
